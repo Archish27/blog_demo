@@ -72,3 +72,9 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "bullet", "~> 7.0"
+
+gem "activerecord-import", "~> 1.5"
+
+gem "ransack", "~> 4.0"
